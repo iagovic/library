@@ -1,0 +1,25 @@
+{
+  "name": "libraryapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "dependencies": {
+  "react": "17.0.2",
+  "react-native": "0.66.0",
+  "@react-navigation/native": "^5.9.4",
+  "@react-navigation/stack": "^5.14.4",
+  "@react-native-async-storage/async-storage": "^1.15.6",
+  "react-native-gesture-handler": "^1.10.3",
+  "react-native-reanimated": "^2.2.0"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
